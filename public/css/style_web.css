@@ -1,0 +1,22 @@
+element.style {
+}
+p.sub-title::after, .icon-type1 i, .background-blue, a.link-light-blue, .icon-type1:hover, .menu .navbar.navbar-default ul.sub-menu, .carousel-indicators li.active, .main-slider .carousel-control.left, .main-slider .carousel-control.right, .documents-btn:hover, .view-on-map-btn:hover, .schedule-visit-btn.white-border:hover, .documents-btn.white-border:hover, .view-on-map-btn.white-border:hover, .room-dimentions-panel.panel-group .panel-heading a, .dimention-caption, .contact-agent-url, input[type="button"], input[type="submit"], .load_more .pagination > li > a:hover, .pagination > li > span:hover, .load_more .pagination > li > a:active, .pagination > li > span:active, .load_more .pagination > li > a:focus, .pagination > li > span:focus, .pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover, .get-direction button {
+    background-color: #3c763d;
+}
+/*BORDER*/
+.schedule-visit-btn, .carousel-indicators li, .documents-btn:hover, .view-on-map-btn:hover, .icon-box-2 i, .agent-detail .media-left i, ul.agent-social-icons li i:hover, .contact-agent-url, input[type="button"], input[type="submit"], .agent-section-container .agent-section-inner .agent-detail .media-left i {
+    border-color: #3c763d;
+}
+/*KONTAK*/
+.schedule-visit-btn, .price-label.pull-left, .icon-box-2 i, .room-dimentions-panel.panel-group .panel-heading a::after, .dimention-detail h3, .nearby-content h4 span, .auther-date a i, .agent-detail .media-left i, .agent-detail .media-body h4, ul.agent-social-icons li i:hover, .load_more .pagination > li > a, .pagination > li > span, .page-not-found a, .agent-section-container .agent-section-inner .agent-detail .media-body h4, .agent-section-container .agent-section-inner .agent-detail .media-left i, .our-service-section.parallax h2.main-title, .our-service-section.parallax h4.icon-title, .agent-section-container.parallax h2.main-title, .newsletter-container button:hover, .amenities-label {
+    color: #3c763d;
+}
+/*navbar admin huruf*/
+.navbar-default .navbar-brand {
+    color: #f5f8fa;
+}
+
+.navbar-default {
+    background-color: #3c763d;
+    border-color: #3c763d;
+}
